@@ -1,2 +1,1 @@
-# online-BookStore
-Here’s a 350-character version:  **Online Bookstore Management System** using HTML, CSS, JavaScript, PHP, and MySQL. Features include admin/user login, product management, order tracking, cart system, search, checkout, and messaging. Admins manage books, users, and payments; users can browse, search, add to cart, and place orders easily.
+# online-BookStore  **Online Bookstore Management System** using HTML, CSS, JavaScript, PHP, and MySQL. Features include admin/user login, product management, order tracking, cart system, search, checkout, and messaging. Admins manage books, users, and payments; users can browse, search, add to cart, and place orders easily.
